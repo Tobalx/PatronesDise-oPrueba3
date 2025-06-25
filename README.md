@@ -7,7 +7,7 @@ Fecha: 25-06-2025
 
 ## Descripción del Sistema
 
-RecetarioFácil es una aplicación desarrollada en Java que permite gestionar recetas de cocina de forma sencilla. El sistema permite:
+Recetario es una aplicación desarrollada en Java que permite gestionar recetas de cocina de forma sencilla. El sistema permite:
 
 - Crear recetas con sus ingredientes.
 - Clonar recetas existentes.
