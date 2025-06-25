@@ -1,4 +1,4 @@
-# RecetarioFácil
+# Recetario
 
 Proyecto de evaluación — Unidad 3  
 Asignatura: Patrones de Diseño  
